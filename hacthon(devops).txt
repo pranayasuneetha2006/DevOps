@@ -1,0 +1,37 @@
+1. Devops Introductiom
+ What is DevOps?
+  DeOps= Development + Operations 
+It's a culture+set of practices+tools that help:
+ > Developers(who write code)
+ > Operations( who deploy/manage systems)
+* Work together,instead of working in silos.
+
+Real time example:
+ imagine You're Building a mobile app like SWIGGY:
+  . The developer writes code to add " Track My Order" Feature.
+  . Without Devops: Developer gives code to Ops team-ther manually-deploy-bugs happen-delays.
+  . With DevOps: Code is automatically tested and deployes-Customers get updates faster and safely.
+
+DevOps Helps You:
+. Release features faster ( like adding new payment methods in Zomato)
+. Fix bugs quickly (like fixing login issue in IRTC)
+. Automate repetitive  tasks(like server restarts, database backups) 
+
+2. DevOps Lifecycle 
+THE 8 Phases Of DevOps LifeCycle:
+PLAN:
+Define what to build 
+Develop :
+Write the code
+Build:
+Compile code into  deployable format
+Test:
+chack for bugs autoatically
+Release:
+approve the build for development
+Deploy:
+push app to servers or app store
+Operate:
+keep app running, fix any issues 
+Monitor:
+Analyze Peformance and feedback
