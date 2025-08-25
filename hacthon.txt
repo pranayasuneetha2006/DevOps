@@ -1,3 +1,5 @@
+Name:Pranaya Sunitha
+Course:BCA-DATASCIENCE
 1. Devops Introductiom
  What is DevOps?
   DeOps= Development + Operations 
@@ -34,4 +36,5 @@ push app to servers or app store
 Operate:
 keep app running, fix any issues 
 Monitor:
+
 Analyze Peformance and feedback
